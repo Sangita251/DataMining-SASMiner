@@ -1,1 +1,3 @@
-# Data Mining Project using SAS Enterprise Miner for performing Predictive Modelling on Bank Telemarketing Dataset
+## Data Mining Project using SAS Enterprise Miner 
+
+The purpose of this project was to identify customers who are most likely to subscribe to a term deposit account based on the results of previous marketing campaigns, based on data gathered by a Portuguese banking institution.
